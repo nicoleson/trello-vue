@@ -1,10 +1,12 @@
 # trello-vue
 
+[![Build Status](https://travis-ci.com/srini85/trello-vue.svg?branch=master)](https://travis-ci.com/srini85/trello-vue)
+
 > A Vue.js project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
